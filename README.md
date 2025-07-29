@@ -61,7 +61,7 @@ Edit
  
  ┗ 📜 README.md
  
-![Image]{https://github.com/Nikhitha999-nikki/Dynamic_Stock_Trade/blob/06d04137c9cf87c874f3290a752683f78638046c/Live%20Stock%20Market%20Viewer%207_28_2025%209_29_42%20PM.png}
+![Image Alt]{https://github.com/Nikhitha999-nikki/Dynamic_Stock_Trade/blob/06d04137c9cf87c874f3290a752683f78638046c/Live%20Stock%20Market%20Viewer%207_28_2025%209_29_42%20PM.png}
 
 
 
