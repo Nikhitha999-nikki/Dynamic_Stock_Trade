@@ -3,9 +3,11 @@
 A lightweight and intuitive Java Swing application for viewing live stock market data with editable tables.
 Perfect for tracking stocks like Apple, Google, Amazon, and Tesla in real-time.
 
-🖥️ Preview
+
 
 ✨ Features
+
+
 📊 Tabular stock view: See Symbol, Company, Price, and Shares.
 
 🖱️ Editable cells: Directly modify the number of shares you own.
@@ -14,8 +16,12 @@ Perfect for tracking stocks like Apple, Google, Amazon, and Tesla in real-time.
 
 💻 Built using Java Swing – no external dependencies required.
 
+
+
+
 🧠 How It Works
 Displays a list of selected stock tickers (AAPL, GOOG, AMZN, TSLA).
+
 
 Each row shows:
 
@@ -40,13 +46,21 @@ css
 Copy
 Edit
 📦 LiveStockViewer
+
  ┣ 📜 Main.java
+ 
  ┣ 📜 StockTableModel.java
+ 
  ┣ 📜 StockData.java
+ 
  ┣ 📁 screenshots
+ 
  ┃ ┗ stock_market_viewer.png
+ 
  ┗ 📜 README.md
+ 
 🚀 Getting Started
+
 Clone the repo:
 
 bash
