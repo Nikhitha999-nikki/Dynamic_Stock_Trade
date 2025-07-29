@@ -33,6 +33,8 @@ Price (manual or fetched)
 
 Shares Owned
 
+Dynamically updatable
+
 Values can be edited directly in the table interface.
 
 🛠 Tech Stack
