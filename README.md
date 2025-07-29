@@ -23,7 +23,7 @@ Perfect for tracking stocks like Apple, Google, Amazon, and Tesla in real-time.
 Displays a list of selected stock tickers (AAPL, GOOG, AMZN, TSLA).
 
 
-Each row shows:
+Each column shows:
 
 Symbol (e.g., AAPL)
 
@@ -38,16 +38,15 @@ Dynamically updatable
 Values can be edited directly in the table interface.
 
 🛠 Tech Stack
-Tech	Description
+
+
 Java	Core programming language
+
 Swing	GUI framework for UI
+
 JTable	Table view for stock list
 
-📁 Suggested Project Structure
-css
-Copy
-Edit
-📦 Stock
+📁  Project Structure
 
  ┣ 📜 DynamicStock.java
  
