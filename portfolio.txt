@@ -1,0 +1,4 @@
+AAPL,Apple Inc.,153.9,0
+GOOG,Alphabet Inc.,2802.04,3
+AMZN,Amazon.com Inc.,3411.18,1
+TSLA,Tesla Inc.,245.05,1
