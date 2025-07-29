@@ -45,13 +45,13 @@ JTable	Table view for stock list
 css
 Copy
 Edit
-📦 LiveStockViewer
+📦 Stock
 
- ┣ 📜 Main.java
+ ┣ 📜 DynamicStock.java
  
- ┣ 📜 StockTableModel.java
+ ┣ 📜 portfolio.txt
  
- ┣ 📜 StockData.java
+ ┣ 📜 stockData.java
  
  ┣ 📁 screenshots
  
@@ -59,32 +59,18 @@ Edit
  
  ┗ 📜 README.md
  
-🚀 Getting Started
 
-Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/LiveStockMarketViewer.git
-Compile the Java files:
 
-bash
-Copy
-Edit
-javac *.java
-Run the application:
 
-bash
-Copy
-Edit
-java Main
-📸 Screenshots
-View and edit your stock list:
+Execution :
 
-Symbol
+cd Stock
 
-Company Name
+javac DynamicStock.java
 
-Current Price
+java DynamicStock
+
+
+
 
