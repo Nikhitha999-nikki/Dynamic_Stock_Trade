@@ -61,7 +61,6 @@ Edit
  
  ┗ 📜 README.md
  
-![Image Alt](https://github.com/Nikhitha999-nikki/Dynamic_Stock_Trade/blob/06d04137c9cf87c874f3290a752683f78638046c/Live%20Stock%20Market%20Viewer%207_28_2025%209_29_42%20PM.png)
 
 
 
@@ -73,6 +72,12 @@ javac DynamicStock.java
 
 java DynamicStock
 
+![Image Alt](https://github.com/Nikhitha999-nikki/Dynamic_Stock_Trade/blob/67b96201dcea8eb0daa2bb1ce148875d1fa49c61/Live%20Stock%20Market%20Viewer%207_28_2025%209_29_01%20PM.png)
 
+
+We see Dynamic updations here  
+
+
+![Image Alt](https://github.com/Nikhitha999-nikki/Dynamic_Stock_Trade/blob/06d04137c9cf87c874f3290a752683f78638046c/Live%20Stock%20Market%20Viewer%207_28_2025%209_29_42%20PM.png)
 
 
